@@ -9,5 +9,6 @@ FIGMA PROJECTS:
 [https://www.figma.com/proto/r9kTUKu0IorsALAp1I9BoJ/Figma-basics?node-id=1385-1555&t=caYFTzkniE9T0Yko-1&scaling=scale-down&content-scaling=fixed&page-id=1272%3A3071&starting-point-node-id=1385%3A1555]
 
 
-WORDPRESS 
+WORDPRESS:
+
 [https://bradaperfumes.com/inicio]
