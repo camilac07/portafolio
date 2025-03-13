@@ -10,4 +10,4 @@ FIGMA PROJECTS:
 
 
 WORDPRESS 
-[bradaperfumes.com]
+[https://bradaperfumes.com/inicio]
